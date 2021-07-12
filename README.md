@@ -1,2 +1,2 @@
 # Sentiment_Analysis
-Sentiment Analysis using different techniques
+Sentiment Analysis of NLTK Movie Reviews using different techniques; binary classification into positive and negative classes
